@@ -4,7 +4,7 @@
 #include<conio.h>
 using namespace std;
 int prices(int seatch,int numticket);
-class Landingpage;
+class Landingpage; 
 class Movies;
 class Theatres;
 class Database;
